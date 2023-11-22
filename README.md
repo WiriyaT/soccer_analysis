@@ -3,4 +3,4 @@
 Analyzing goal trends
 
 
-[Click here!](www.google.com)
+[Click here!](https://www.google.com/)
